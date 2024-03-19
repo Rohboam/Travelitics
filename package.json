@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "gl-matrix": "^3.4.3",
+    "nodeman": "^1.1.2",
+    "react-map-gl": "^7.0.13"
+  }
+}
